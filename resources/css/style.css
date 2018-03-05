@@ -2,3 +2,11 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+#top {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+#top ul {
+  text-decoration: underline;
+  list-style:none;
+}
