@@ -4,9 +4,40 @@ body {
 }
 #top {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
   color: white;
+  font-size: 70px;
+  font-weight: bold;
 }
 #top ul {
   text-decoration: underline;
   list-style:none;
+  font-size: 18px;
+}
+#middle h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.image {
+  width: 75px;
+  height: 75px;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.pb {
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#footer {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
