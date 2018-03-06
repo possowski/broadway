@@ -4,14 +4,14 @@ body {
 }
 #top {
   background-image: url("../images/the-flatiron-building.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   color: white;
   font-size: 70px;
   font-weight: bold;
 }
 #top ul {
   text-decoration: underline;
-  list-style:none;
+  list-style: none;
   font-size: 18px;
 }
 #middle h2 {
